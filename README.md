@@ -1,1 +1,1 @@
-I  store  here all code or documents related to SQL in this repository.
+In this repository, I have included some exercises that were completed during different courses.
